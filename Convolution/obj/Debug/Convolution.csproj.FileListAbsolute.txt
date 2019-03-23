@@ -1,9 +1,0 @@
-C:\Users\Machine Learning\Desktop\Convolution\Convolution\bin\Debug\Convolution.exe.config
-C:\Users\Machine Learning\Desktop\Convolution\Convolution\bin\Debug\Convolution.exe
-C:\Users\Machine Learning\Desktop\Convolution\Convolution\bin\Debug\Convolution.pdb
-C:\Users\Machine Learning\Desktop\Convolution\Convolution\obj\Debug\Convolution.csprojResolveAssemblyReference.cache
-C:\Users\Machine Learning\Desktop\Convolution\Convolution\obj\Debug\Convolution.Form1.resources
-C:\Users\Machine Learning\Desktop\Convolution\Convolution\obj\Debug\Convolution.Properties.Resources.resources
-C:\Users\Machine Learning\Desktop\Convolution\Convolution\obj\Debug\Convolution.csproj.GenerateResource.Cache
-C:\Users\Machine Learning\Desktop\Convolution\Convolution\obj\Debug\Convolution.exe
-C:\Users\Machine Learning\Desktop\Convolution\Convolution\obj\Debug\Convolution.pdb
